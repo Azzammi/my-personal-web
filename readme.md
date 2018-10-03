@@ -1,4 +1,4 @@
-##Simple web app using react
+## Simple web app using react
 
 Another technologies in use :
 ExpressJS
